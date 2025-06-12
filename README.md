@@ -1,26 +1,22 @@
-# Artist List
-Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de programação Kotlin, criado para aprender princípios básicos da nova UI toolkit Compose.
+# Sobre
+Esse aplicativo foi desenvolvido para praticar o uso do Jetpack Compose na criação de componentes essenciais para telas, carregando uma tela Onboarding com animação e a HomeScreen com uma barra de procura e uma lista de artistas para o usuário explorar o mundo dos artistas plásticos.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="https://github.com/ComunidadeDevSpace/ComposeInit/assets/11612508/4def44a9-b377-4e9c-b3b7-19cec8599e6d" width=260/>
 
-## Tecnologias
-- 100% Kotlin
-- Compose
-  - Column
-  - Row
-  - Image
-  - Modifier
-  - Spacer
-  - LazyColumn
-  - ComposePreview
+## Tecnologias usadas no Aplicativo
+- Kotlin
+- Jetpack Compose (Surface, Column, LottieAnimation, Spacer, Button, Text, Modifier, LazyColumn e Preview)
+
+## Melhorias
+Futuramente pretendo consumir uma API que retorne todos os trabalhos dos artistas plásticos a nível mundial e um click em cada card para redirecionar o usuário para uma tela com mais detalhes sobre os trabalhos do artista.
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2024 Roque Buarque Junior
+Copyright (c) 2025 Larissa Rabello da Silva
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
